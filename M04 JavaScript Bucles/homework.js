@@ -219,7 +219,7 @@ function doWhile(num) {
    // Utilizar el bucle Do-While.
    // Tu código:
    let veces=1;
-   while(veces<9){
+   while(veces<9){   //while == hasta - mientras
       num=num+5;
       veces=veces+1;
    }
